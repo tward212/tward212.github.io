@@ -54,8 +54,7 @@ showcase my ability to produce effective documentation.
 
 ## Resume
 
-Your browser doesn't support embedded PDFs. You can [download the file
-here](TedHarrison_Resume.pdf).
+<embed src="TedHarrison_Resume.pdf" type="application/pdf" />
 
 ## Contact
 
